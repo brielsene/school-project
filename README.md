@@ -36,6 +36,20 @@ Além disso o projeto também utiliza um recurso do Java 16 (Records) que é uti
 
 ![httpAluno](https://github.com/brielsene/school-project/assets/87671071/fe9cf850-488d-4ef1-bf0d-7e737dfce9cb)
 
+## Povoamento Imsonmia
+
+- Povoamento Escola
+
+![postEscola](https://github.com/brielsene/school-project/assets/87671071/37ea0a9c-4b49-4c85-b1df-e79859dc5ad4)
+
+![putEscola](https://github.com/brielsene/school-project/assets/87671071/365889d1-8ced-41bf-953b-08fa457f6884)
+
+- Povoamento Aluno
+
+![postAluno](https://github.com/brielsene/school-project/assets/87671071/08069c62-2e60-4603-85e8-bb9fcb415327)
+
+![putAluno](https://github.com/brielsene/school-project/assets/87671071/815e7498-25b9-4412-b348-d04cccecdedf)
+
 
 
 ## Pré-requisitos
