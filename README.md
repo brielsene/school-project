@@ -21,7 +21,7 @@ Além disso o projeto também utiliza um recurso do Java 16 (Records) que é uti
 - Imsomnia
 
 ## Organização de classes
-![organizaçãodeclasses](https://github.com/brielsene/school-project/assets/87671071/ee5e2fa6-b02b-474b-9ef9-2500d0c69bb4)
+![orgclasses](https://github.com/brielsene/school-project/assets/87671071/571c4120-daca-4bbb-8ec8-4ef55140d7a5)
 
 ## Organização Imsomnia
 - Coleções de requisições
